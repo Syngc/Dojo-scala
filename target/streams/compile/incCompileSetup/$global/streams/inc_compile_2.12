@@ -1,0 +1,368 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes
+compile options:
+4 items
+0 -> -unchecked
+1 -> -deprecation
+2 -> -encoding
+3 -> utf8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+11 items
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Course$.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Course.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Note$.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Note.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Operation$.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Student$.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Student.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$myJsonCourseProtocol$.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$myJsonStudentProtocol$.class
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer.class
+binary dependencies:
+8 items
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.16.jar
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.1.5.jar
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.12/jars/akka-http-spray-json_2.12-10.1.5.jar
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.1.5.jar
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.16.jar
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/.ivy2/cache/io.spray/spray-json_2.12/bundles/spray-json_2.12-1.3.4.jar
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /home/estudiantes/mateo.canob/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+11 items
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$Course
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$Course$
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$Note
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$Note$
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$Operation$
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$Student
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$Student$
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$myJsonCourseProtocol$
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer$myJsonStudentProtocol$
+used names:
+241 items
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> &&
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> /
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> <byname>
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> <init>
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> <refinement>
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> <repeated>
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ==
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> A
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> AbstractFunction1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> AbstractFunction3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ActorMaterializer
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ActorMaterializerSettings
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ActorRefFactory
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ActorSystem
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Any
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> AnyRef
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ApplyConverter
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Array
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> B
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Boolean
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ClassManifest
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ClassManifestFactory
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ClientError
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Complete
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ConnectionContext
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Course
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> DefaultJsonProtocol
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Directive
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Directive0
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Directives
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Done
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Double
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> DoubleJsonFormat
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ExceptionHandler
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ExecutionContext
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ExecutionContextExecutor
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Flow
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Function1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Function3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Future
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Http
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> HttpExt
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> HttpRequest
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> HttpResponse
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> In
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> IndexOutOfBoundsException
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Int
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> IntNumber
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Iterator
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> JF
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Join
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> JoinAux
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> JsArray
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> JsonFormat
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> L
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> List
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> LoggingAdapter
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Marshaller
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> MatchError
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Materializer
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Nil
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> None
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> NotFound
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> NotUsed
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Note
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Nothing
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Object
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> OnSuccessMagnet
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Operation
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Option
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Out
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> P1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> P2
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> P3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ParserSettings
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> PathMatcher
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> PathMatcher0
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Predef
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Product
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> R
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> RejectionHandler
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> RequestContext
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> RootJsonFormat
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Route
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> RouteResult
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> RoutingLog
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> RoutingSettings
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> S
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ScalaRunTime
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Serializable
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ServerBinding
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ServerSettings
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Some
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> SprayJsonSupport
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> StandardRoute
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Statics
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Status
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> StatusCode
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> StatusCodes
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> StdIn
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> String
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> StringContext
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> StringJsonFormat
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> StringMarshaller
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Student
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Success
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> T
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> T0
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> T1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> T2
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> T3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> TRM
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Terminated
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ToEntityMarshaller
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ToResponseMarshallable
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ToResponseMarshaller
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Try
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Tuple1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Tuple3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> TupleOps
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Tupler
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> U
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> Unit
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> WebServer
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> _hashCode
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> _root_
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> _segmentStringToPathMatcher
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> _toString
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> actor
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> addByNameNullaryApply
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> addDirectiveApply
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> akka
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> apply
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> asInstanceOf
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> bindAndHandle
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> bindFuture
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> c
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> classType
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> collection
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> complete
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> concurrent
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> course
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> course1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> course2
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> course3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> courseId
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> courses
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> default
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> directives
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> dispatcher
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> doubleHash
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> eq
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> executionContext
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> fetchStudents
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> finalizeHash
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> find
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> flatMap
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> forAnyRef
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> fromActorSystem
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> fromStatusCode
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> get
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> hac1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> http
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> id
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> immutable
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> io
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> isInstanceOf
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> join0P
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> json
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> jsonFormat1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> jsonFormat3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> liftMarshaller
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> list
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> listFormat
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> marshallers
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> marshalling
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> materializer
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> maybeStudents
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> mix
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> model
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> myJsonCourseProtocol
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> myJsonStudentProtocol
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> name
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> note1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> note2
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> note3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> note4
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> note5
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> noteFormat
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> onComplete
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> onSuccess
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> package
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> parsing
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> pathPrefix
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> println
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> qual$1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> readLine
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> reflect
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> route
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> route2HandlerFlow
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> runtime
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> s
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> scala
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> scaladsl
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> server
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> settings
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> some
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> spray
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> sprayjson
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> stream
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> student1
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> student2
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> student3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> student4
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> student5
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> student6
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> student7
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> student8
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> students
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> system
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> terminate
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> toString
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> typedProductIterator
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> unbind
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> util
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> value
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$10
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$11
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$12
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$13
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$14
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$15
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$16
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$3
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$4
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$5
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$6
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$7
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$8
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> x$9
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> ||
+product stamps:
+11 items
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Course$.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Course.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Note$.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Note.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Operation$.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Student$.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$Student.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$myJsonCourseProtocol$.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer$myJsonStudentProtocol$.class -> lastModified(1536426364000)
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/target/scala-2.12/classes/WebServer.class -> lastModified(1536426364000)
+source stamps:
+1 items
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> hash(dd88ac758a3823cd388734eb1b59f2c7d9e5ee58)
+binary stamps:
+8 items
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.16.jar -> lastModified(1535563531000)
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.1.5.jar -> lastModified(1536161113000)
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.12/jars/akka-http-spray-json_2.12-10.1.5.jar -> lastModified(1536161455000)
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.1.5.jar -> lastModified(1536162380000)
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.16.jar -> lastModified(1535564136000)
+/home/estudiantes/mateo.canob/.ivy2/cache/io.spray/spray-json_2.12/bundles/spray-json_2.12-1.3.4.jar -> lastModified(1508828031000)
+/home/estudiantes/mateo.canob/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar -> lastModified(1524818407000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1532019547000)
+class names:
+8 items
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.16.jar -> akka.actor.ActorSystem
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.1.5.jar -> akka.http.scaladsl.settings.ParserSettings$
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.12/jars/akka-http-spray-json_2.12-10.1.5.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport$
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.1.5.jar -> akka.http.scaladsl.server.RoutingLog$
+/home/estudiantes/mateo.canob/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.5.16.jar -> akka.stream.ActorMaterializer$
+/home/estudiantes/mateo.canob/.ivy2/cache/io.spray/spray-json_2.12/bundles/spray-json_2.12-1.3.4.jar -> spray.json.DefaultJsonProtocol
+/home/estudiantes/mateo.canob/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.6.jar -> scala.runtime.AbstractFunction3
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHRpJtAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAC1zcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHADWKatdAAOVW5pdEpzb25Gb3JtYXRzcQB+AAs1pmDpdAAKbGlzdEZvcm1hdHNxAH4AC+OTVbJ0AAx2ZWN0b3JGb3JtYXRzcQB+AAsoHIy1dAAGc3lzdGVtc3EAfgALZCU/LXQAElJvb3RKc09iamVjdEZvcm1hdHNxAH4AC60AZF10ABFCb29sZWFuSnNvbkZvcm1hdHNxAH4AC0in3Qx0AA1zdHVkZW50Rm9ybWF0c3EAfgALlfANtHQACXNldEZvcm1hdHNxAH4AC5NNV6J0ABFSb290SnNBcnJheUZvcm1hdHNxAH4ACxL+nMF0AA1Kc1ZhbHVlRm9ybWF0c3EAfgALUsJDB3QADkxvbmdKc29uRm9ybWF0c3EAfgALccARKnQADHR1cGxlMUZvcm1hdHNxAH4AC5Num0p0ABBpbmRleGVkU2VxRm9ybWF0c3EAfgALVfRiQnQADG9wdGlvbkZvcm1hdHNxAH4AC62Y70x0AA9saW5lYXJTZXFGb3JtYXRzcQB+AAu20vskdAAQU3ltYm9sSnNvbkZvcm1hdHNxAH4AC0uWZT10AAx0dXBsZTVGb3JtYXRzcQB+AAtUWnYKdAAMdHVwbGUzRm9ybWF0c3EAfgAL6LV3BnQAEmltbUxpbmVhclNlcUZvcm1hdHNxAH4ACwKMHSl0AAx0dXBsZTdGb3JtYXRzcQB+AAtjMc1NdAAQZXhlY3V0aW9uQ29udGV4dHNxAH4AC4qV0lp0AAxpbW1TZXRGb3JtYXRzcQB+AAtiClPNdAAMZWl0aGVyRm9ybWF0c3EAfgALxS1QBnQADkNoYXJKc29uRm9ybWF0c3EAfgALgfBfanQAFEJpZ0RlY2ltYWxKc29uRm9ybWF0c3EAfgALc25WZXQAD1Nob3J0SnNvbkZvcm1hdHNxAH4ACwB/29N0AAx0dXBsZTZGb3JtYXRzcQB+AAt+jvRXdAAMY291cnNlRm9ybWF0c3EAfgALKXMhv3QAEFN0cmluZ0pzb25Gb3JtYXRzcQB+AAuzrVpedAALYXJyYXlGb3JtYXRzcQB+AAt3QgqHdAARaW1tSXRlcmFibGVGb3JtYXRzcQB+AAsoiq4NdAAOQnl0ZUpzb25Gb3JtYXRzcQB+AAt5rOdsdAAMbWF0ZXJpYWxpemVyc3EAfgALN+5hkXQADHR1cGxlMkZvcm1hdHNxAH4AC4AMRCp0ABNpbW1JbmRleGVkU2VxRm9ybWF0c3EAfgALuPGPwnQADGltbVNlcUZvcm1hdHNxAH4ACzgz1Lp0AAx0dXBsZTRGb3JtYXRzcQB+AAuSbANidAAKbm90ZUZvcm1hdHNxAH4AC88kv/x0AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAtLZZrLdAAOaXRlcmFibGVGb3JtYXRzcQB+AAsboH3wdAANSW50SnNvbkZvcm1hdHNxAH4AC8AQNHB0ABBEb3VibGVKc29uRm9ybWF0c3EAfgALripoxXQACW1hcEZvcm1hdHNxAH4AC14smkN0AAlzZXFGb3JtYXRzcQB+AAuEJL4QdAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAGtzcQB+AAvflfKIdAAGbm90aWZ5c3EAfgALMrobi3QABHJlYWRzcQB+AAuhhyHOdAAJZnJvbUZpZWxkc3EAfgALUWpRD3QAC2pzb25Gb3JtYXQ5c3EAfgALbcXyRnQAB3VuYXBwbHlzcQB+AAsYAvdDdAAHY3VycmllZHNxAH4AC8KAKDV0AAhzdHVkZW50M3NxAH4AC4N+/Qh0AAxqc29uRm9ybWF0MTZzcQB+AAvBIJ+JdAAEbmFtZXNxAH4AC4PVdQt0AAxqc29uRm9ybWF0MjBzcQB+AAsxL5TcdAAEd2FpdHNxAH4AC0ldq8h0AAZ2aWFTZXFzcQB+AAtCFHL5dAAKbGF6eUZvcm1hdHNxAH4ACwodt2l0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC0fNwdh0AA0kYXNJbnN0YW5jZU9mc3EAfgALhMbzW3QADGpzb25Gb3JtYXQxMnNxAH4AC6Y2ovp0AAxqc29uRm9ybWF0MTNzcQB+AAvM+Rv+dAAHY291cnNlM3NxAH4AC3hf9mp0AAtqc29uRm9ybWF0MnNxAH4AC58OkW10AAdjb21wb3Nlc3EAfgALp9vKgXQADHByb2R1Y3RBcml0eXNxAH4AC3P6H0V0AAZlcXVhbHNzcQB+AAvN0xj9dAALanNvbkZvcm1hdDZzcQB+AAviTuKedAAIc3R1ZGVudHNzcQB+AAtaeCQ3dAAETm90ZXNxAH4AC/XLFa50AAxhc0luc3RhbmNlT2ZzcQB+AAuRODLxdAAManNvbkZvcm1hdDE1c3EAfgALZw43pHQAAkpGc3EAfgALqtdvIXQACHN0dWRlbnQyc3EAfgALvIaqQHQADHN5bmNocm9uaXplZHNxAH4ACxwkZZV0AAxqc29uRm9ybWF0MTFzcQB+AAs6KzqNdAANJGlzSW5zdGFuY2VPZnNxAH4ACySjxGd0AAVub3RlMXNxAH4AC1xOGmB0AAtqc29uRm9ybWF0NXNxAH4AC/Y3maF0AAdhbmRUaGVuc3EAfgALPwKMvHQADGpzb25Gb3JtYXQyMXNxAH4AC2Abrpd0AAlXZWJTZXJ2ZXJzcQB+AAuN3cjMdAAUcHJvZHVjdEVsZW1lbnQyRmllbGRzcQB+AAtPqv2TdAAKcm9vdEZvcm1hdHNxAH4ACxB7dgd0AB5wcm9kdWN0RWxlbWVudDJGaWVsZCRkZWZhdWx0JDRzcQB+AAvptQFLdAAGdHVwbGVkc3EAfgALA5wO/HQADGpzb25Gb3JtYXQxNHNxAH4ACy838uh0AAVub3RlNXNxAH4AC5gCgJN0AAhjYW5FcXVhbHNxAH4AC7rFVOd0AAtqc29uRm9ybWF0MXNxAH4AC/xKPup0AA5yb290SnNvbkZvcm1hdHNxAH4AC1JhBNN0AARtYWluc3EAfgAL8vgDHXQADXByb2R1Y3RQcmVmaXhzcQB+AAvMHPzEdAAIc3R1ZGVudDZzcQB+AAuBfF1sdAAManNvbkZvcm1hdDE5c3EAfgAL+jHoAnQACW5vdGlmeUFsbHNxAH4ACwsZhfN0AAhkZWxlZ2F0ZXNxAH4AC/F7Usd0AAxpc0luc3RhbmNlT2ZzcQB+AAtMQXzxdAAHY291cnNlc3NxAH4ACze/TW90AAlPcGVyYXRpb25zcQB+AAuSovendAAUbXlKc29uQ291cnNlUHJvdG9jb2xzcQB+AAtlTT0bdAAHY291cnNlMXNxAH4AC5gxdQp0AAY8aW5pdD5zcQB+AAuJnlkfdAACaWRzcQB+AAum75j8dAAIcmVhZFNvbWVzcQB+AAsEO64xdAAIc3R1ZGVudDFzcQB+AAu6RHYQdAAFYXBwbHlzcQB+AAtB7W7BdAALanNvbkZvcm1hdDRzcQB+AAvsbG9QdAAGQ291cnNlc3EAfgALOE1TI3QAAj09c3EAfgALcAm5MHQABWNsb25lc3EAfgAL/7gEMHQADGpzb25Gb3JtYXQxMHNxAH4AC9z7r5p0AAtqc29uRm9ybWF0MHNxAH4AC2WjtXl0AAxqc29uRm9ybWF0MjJzcQB+AAsYRtrHdAAIc3R1ZGVudDRzcQB+AAvo/h8RdAAMT3B0aW9uRm9ybWF0c3EAfgALrRGSWnQADGpzb25Gb3JtYXQxOHNxAH4AC89GrCh0AAYkaW5pdCRzcQB+AAv6ojpTdAAOY29weSRkZWZhdWx0JDNzcQB+AAsZLFqOdAAFbm90ZTRzcQB+AAsaEbX+dAAEY29weXNxAH4ACypqYOJ0AAhzdHVkZW50N3NxAH4AC48xuvB0AA1mZXRjaFN0dWRlbnRzc3EAfgALJh2xzXQACHN0dWRlbnQ4c3EAfgALNwNFN3QACHRvU3RyaW5nc3EAfgALZEJNWHQACmpzb25Gb3JtYXRzcQB+AAtD0wDCdAACIT1zcQB+AAvzhY9OdAALanNvbkZvcm1hdDhzcQB+AAsJwVGfdAAIZ2V0Q2xhc3NzcQB+AAv6obQ9dAAOY29weSRkZWZhdWx0JDFzcQB+AAvnqRecdAAHY291cnNlMnNxAH4AC+ogn/p0AAhzdHVkZW50NXNxAH4AC3baX1J0AAJuZXNxAH4AC3SJgRR0AAV2YWx1ZXNxAH4AC0UNDu50AARsaWZ0c3EAfgALhaCzonQAB1N0dWRlbnRzcQB+AAsMWLZedAALanNvbkZvcm1hdDNzcQB+AAs/U2/SdAACZXFzcQB+AAtgx2kBdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALYRJ2mHQABXdyaXRlc3EAfgALhSk7NXQACnNhZmVSZWFkZXJzcQB+AAtGWjkIdAACIyNzcQB+AAuVpqLNdAAEbGlzdHNxAH4ACxaMVjh0AAhmaW5hbGl6ZXNxAH4AC6Ui94p0AA5wcm9kdWN0RWxlbWVudHNxAH4AC9YC1ah0AAhoYXNoQ29kZXNxAH4AC0SAyRN0ABFleHRyYWN0RmllbGROYW1lc3NxAH4ACytKbKt0AAVub3RlMnNxAH4AC13QbcJ0AAVub3RlM3NxAH4AC9N/cZ10AAxqc29uRm9ybWF0MTdzcQB+AAuwo3+KdAAVbXlKc29uU3R1ZGVudFByb3RvY29sc3EAfgALU9VZSnQAC2pzb25Gb3JtYXQ3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgCxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgFfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AUdMAAlpbmhlcml0ZWRxAH4BR0wAB3BhcmVudHNxAH4BR3hxAH4BZHNxAH4BX3VxAH4BQgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4BSHEAfgFRdXEAfgFSAAAAAHNxAH4BVABxAH4AxXVxAH4BVgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgFjdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BY3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Bf3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AWx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AVl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AXNbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AWNzcQB+AXJ0AAVBcnJheXEAfgF4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AXJ0AAZTdHJpbmdzcQB+AXZzcQB+AXl1cQB+AXwAAAADc3EAfgF+dAAEamF2YXNxAH4BfnQABGxhbmdxAH4Bg3NxAH4BX3VxAH4BQgAAAABzcQB+AV91cQB+AZcAAAACc3EAfgFydAAGT2JqZWN0cQB+AZtzcQB+AXJ0AANBbnlxAH4BeHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFluiW2/XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE8vaG9tZS9lc3R1ZGlhbnRlcy9tYXRlby5jYW5vYi9JZGVhUHJvamVjdHMvZG9qby1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU3YisdYo4I804hzTrG1nyx9nl7lg=
+external apis:
+0 items
+source infos:
+1 items
+/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZboltv11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL2VzdHVkaWFudGVzL21hdGVvLmNhbm9iL0lkZWFQcm9qZWN0cy9kb2pvLXNjYWxhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

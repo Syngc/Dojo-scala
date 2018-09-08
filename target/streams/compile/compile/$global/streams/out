@@ -1,0 +1,112 @@
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:1:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.actor.ActorSystem[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:2:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.http.scaladsl.Http[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:3:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.stream.ActorMaterializer[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:4:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.Done[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:5:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.actor.Status.Success[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:6:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.http.scaladsl.server.Route[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:7:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.http.scaladsl.server.Directives._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:8:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.http.scaladsl.model.StatusCodes[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:9:8: not found: object akka[0m
+[0m[[0m[31merror[0m] [0m[0mimport akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:10:8: not found: object spray[0m
+[0m[[0m[31merror[0m] [0m[0mimport spray.json.DefaultJsonProtocol[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:11:8: not found: object spray[0m
+[0m[[0m[31merror[0m] [0m[0mimport spray.json.DefaultJsonProtocol._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:12:8: not found: object spray[0m
+[0m[[0m[31merror[0m] [0m[0mimport spray.json._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:14:19: object parsing is not a member of package util[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.util.parsing.json._[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:20:25: not found: value ActorSystem[0m
+[0m[[0m[31merror[0m] [0m[0m  implicit val system = ActorSystem()[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:21:31: not found: value ActorMaterializer[0m
+[0m[[0m[31merror[0m] [0m[0m  implicit val materializer = ActorMaterializer()[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:28:29: not found: value jsonFormat1[0m
+[0m[[0m[31merror[0m] [0m[0m  implicit val noteFormat = jsonFormat1(Note)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:30:40: not found: type DefaultJsonProtocol[0m
+[0m[[0m[31merror[0m] [0m[0m  object myJsonStudentProtocol extends DefaultJsonProtocol {[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:31:38: not found: type JsonFormat[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit def studentFormat[Note: JsonFormat] = jsonFormat3(Student.apply)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:31:52: not found: value jsonFormat3[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit def studentFormat[Note: JsonFormat] = jsonFormat3(Student.apply)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:31:72: missing argument list for method apply in object Student[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `apply _` or `apply(_,_,_)` instead of `apply`.[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit def studentFormat[Note: JsonFormat] = jsonFormat3(Student.apply)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:34:39: not found: type DefaultJsonProtocol[0m
+[0m[[0m[31merror[0m] [0m[0m  object myJsonCourseProtocol extends DefaultJsonProtocol {[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:35:40: not found: type JsonFormat[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit def courseFormat[Student: JsonFormat] = jsonFormat3(Course.apply)[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:35:54: not found: value jsonFormat3[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit def courseFormat[Student: JsonFormat] = jsonFormat3(Course.apply)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:35:73: missing argument list for method apply in object Course[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `apply _` or `apply(_,_,_)` instead of `apply`.[0m
+[0m[[0m[31merror[0m] [0m[0m    implicit def courseFormat[Student: JsonFormat] = jsonFormat3(Course.apply)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:61:82: Cannot find an implicit ExecutionContext. You might pass[0m
+[0m[[0m[31merror[0m] [0m[0man (implicit ec: ExecutionContext) parameter to your method[0m
+[0m[[0m[31merror[0m] [0m[0mor import scala.concurrent.ExecutionContext.Implicits.global.[0m
+[0m[[0m[31merror[0m] [0m[0m    def fetchStudents(courseId: String) : Future[Option[List[Student]]] = Future {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:68:17: not found: type Route[0m
+[0m[[0m[31merror[0m] [0m[0m    val route : Route = {[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:69:5: not found: value get[0m
+[0m[[0m[31merror[0m] [0m[0m    get{[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:70:7: not found: value pathPrefix[0m
+[0m[[0m[31merror[0m] [0m[0m      pathPrefix("students" / IntNumber){[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:70:29: value / is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m      pathPrefix("students" / IntNumber){[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:70:31: not found: value IntNumber[0m
+[0m[[0m[31merror[0m] [0m[0m      pathPrefix("students" / IntNumber){[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:74:11: not found: value onSuccess[0m
+[0m[[0m[31merror[0m] [0m[0m          onSuccess(maybeStudents) {[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:75:32: not found: value complete[0m
+[0m[[0m[31merror[0m] [0m[0m            case Some(some) => complete((some.toString))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:76:26: not found: value complete[0m
+[0m[[0m[31merror[0m] [0m[0m            case None => complete(StatusCodes.NotFound)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:76:35: not found: value StatusCodes[0m
+[0m[[0m[31merror[0m] [0m[0m            case None => complete(StatusCodes.NotFound)[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/mateo.canob/IdeaProjects/dojo-scala/src/main/scala/main.scala:82:22: not found: value Http[0m
+[0m[[0m[31merror[0m] [0m[0m    val bindFuture = Http().bindAndHandle(route, "localhost",8080)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m35 errors found[0m
